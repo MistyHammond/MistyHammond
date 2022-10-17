@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MistyHammond, I'm an Event Manager looking to expand knowlegde in website and newsletter design in the hopes to eventually move into website design in the future. 
-- 👀 I’m interested in website design
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👋 Hi, I’m @MistyHammond, I'm currently working on The Odin Project and finding myself progressively more in love with JavaScript day by day!
+- 👀 I’m looking for a junior developer role where I can develop further and faster through a professional role and collaboration
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
